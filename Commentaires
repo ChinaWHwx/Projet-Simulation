@@ -1,0 +1,2 @@
+Pour l'attribut genre on écrit f si c'est une femelle et m si c'est un mâle. Vu que c'est le constructeur qui détermine le genre il n'y a pas besoin de vérifier si l'attribut et valide.
+Un attribut age qui evolue avec le temps. Il commence à 0.
